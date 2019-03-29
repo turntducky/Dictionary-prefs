@@ -1,0 +1,9 @@
+Package: com.ducksrepo.dictionaryexample
+Name: dictionaryexample
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An example tweak using Dictionary prefs.
+Maintainer: Turnt Ducky
+Author: Turnt Ducky
+Section: Tweaks
