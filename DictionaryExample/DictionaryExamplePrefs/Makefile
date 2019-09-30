@@ -1,5 +1,5 @@
 DEBUG = 0
-ARCHS = arm64
+ARCHS = arm64 arm63e
 include $(THEOS)/makefiles/common.mk
 
 BUNDLE_NAME = DictionaryExamplePrefs
